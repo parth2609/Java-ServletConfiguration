@@ -1,2 +1,2 @@
 # Java-ServletConfiguration
-Servlet+HTML
+JAVA(Servlet)+HTML+XML
